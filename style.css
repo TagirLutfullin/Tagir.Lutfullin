@@ -1,0 +1,20 @@
+body {
+    font-size: 20px;
+    color: yellow;
+    } div {
+    color: #2b8800; float: right; text-align: center; }
+
+    div.Tigr{
+        width: 200px;
+        height: 100px;
+        border-radius: 60px;
+        background: #dea38a;
+    }
+    img.Tigr{
+        width: 150px;
+        border-radius: 100%;
+    }
+    p.Tigr{
+        font-size: 50px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
